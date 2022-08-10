@@ -609,6 +609,22 @@ video {
   top: -2rem;
 }
 
+.bottom-48{
+  bottom: 12rem;
+}
+
+.bottom-52{
+  bottom: 13rem;
+}
+
+.-bottom-52{
+  bottom: -13rem;
+}
+
+.bottom-64{
+  bottom: 16rem;
+}
+
 .z-50{
   z-index: 50;
 }
@@ -1118,6 +1134,11 @@ video {
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-7xl{
+  font-size: 4.5rem;
+  line-height: 1;
 }
 
 .font-semibold{
