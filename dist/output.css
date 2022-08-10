@@ -811,19 +811,19 @@ video {
 }
 
 .bg-bg_1{
-  background-image: url('/images/bg_1.jpg');
+  background-image: url('../images/bg_1.jpg');
 }
 
 .bg-bg_2{
-  background-image: url('/images/bg_2.jpg');
+  background-image: url('../images/bg_2.jpg');
 }
 
 .bg-bg_3{
-  background-image: url('/images/bg_3.jpg');
+  background-image: url('../images/bg_3.jpg');
 }
 
 .bg-bg_4{
-  background-image: url('/images/bg_4.jpg');
+  background-image: url('../images/bg_4.jpg');
 }
 
 .bg-cover{

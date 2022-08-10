@@ -8,16 +8,16 @@ module.exports = {
       background: '#FFFFFF',
       principal: {
         100: '#C2A47B',
-        200: '#9B4B15'
+        200: '#9B4B15',
     },
     special: '#F472B6',
-    icones: '#924363'
+    icones: '#924363',
     },
     backgroundImage: {
-      'bg_1': "url('/images/bg_1.jpg')",
-      'bg_2': "url('/images/bg_2.jpg')",
-      'bg_3': "url('/images/bg_3.jpg')",
-      'bg_4': "url('/images/bg_4.jpg')"
+      'bg_1': "url('../images/bg_1.jpg')",
+      'bg_2': "url('../images/bg_2.jpg')",
+      'bg_3': "url('../images/bg_3.jpg')",
+      'bg_4': "url('../images/bg_4.jpg')",
     },
     backgroundPosition: {
       bottom: 'bottom',
@@ -37,8 +37,8 @@ module.exports = {
     fontFamily:{
       body: 'Nunito',
       titles: 'Great Vibes',
-      subtitles: 'Poppins'
-    }
+      subtitles: 'Poppins',
+    },
   },
   plugins: [],
 }
