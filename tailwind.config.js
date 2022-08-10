@@ -10,7 +10,8 @@ module.exports = {
         100: '#C2A47B',
         200: '#9B4B15'
     },
-    special: '#F472B6'
+    special: '#F472B6',
+    icones: '#924363'
     },
     backgroundImage: {
       'bg_1': "url('/images/bg_1.jpg')",
