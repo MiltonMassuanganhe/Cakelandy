@@ -36,7 +36,8 @@ module.exports = {
   },
     fontFamily:{
       body: 'Nunito',
-      titles: 'Poppins'
+      titles: 'Great Vibes',
+      subtitles: 'Poppins',
     }
   },
   plugins: [],
